@@ -1,0 +1,17 @@
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Service.deps.json
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Service.dll
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Service.pdb
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Core.dll
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Repository.dll
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Core.pdb
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\bin\Debug\net6.0\MarwinTask.Repository.pdb
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.csproj.AssemblyReference.cache
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.AssemblyInfoInputs.cache
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.AssemblyInfo.cs
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.csproj.CoreCompileInputs.cache
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.csproj.CopyComplete
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.dll
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\refint\MarwinTask.Service.dll
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\MarwinTask.Service.pdb
+C:\Users\ulan1\source\repos\MarwinTask\MarwinTask.Service\obj\Debug\net6.0\ref\MarwinTask.Service.dll

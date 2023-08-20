@@ -1,0 +1,45 @@
+﻿@model CompanyViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    <form method="post" enctype="multipart/form-data" action="@Url.Action("Import", "Home")">
+        <div class="form-group">
+            <label for="file">Choose File</label>
+            <input type="file" name="file" id="file" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Import</button>
+    </form>
+    <form method="get" enctype="multipart/form-data" action="@Url.Action("Export", "Home")">
+        <button type="submit" class="btn btn-primary">Export</button>
+    </form>
+
+
+    <h1 class="display-4">Companies</h1>
+    @foreach(var company in Model.Companies)
+    {
+        <h2>@company.Name</h2>
+        <p>@company.Iin</p>
+        <p>@company.Address</p>
+        <p>@company.Note</p>
+        <table>
+            <tr>
+                <th>Iin</th>
+                <th>name</th>
+                <th>lastname</th>
+                <th>surname</th>
+            </tr>
+            @foreach(var employee in company.Employees)
+            {
+                <tr>
+                    <td>@employee.Iin</td>
+                    <td>@employee.Firstname</td>
+                    <td>@employee.Lastname</td>
+                    <td>@employee.Surname</td>
+                </tr>
+            }
+        </table>
+    }
+</div>
